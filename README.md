@@ -1,5 +1,5 @@
 # Sissy-Research
-## [Alyxsissy AI](https://www.alyxsissy.com/) | [Sissy Research Institute Discord](https://www.google.com/)
+## [Alyxsissy AI](https://www.alyxsissy.com/) | [Sissy Research Institute Discord](https://discord.gg/CRdfmBjkG7)
 Alyxsissy x Sissy Research Institute master collaborative projects. 
 
 # **MARKDOWN LANGUAGE GUIDE**
